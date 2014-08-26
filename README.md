@@ -1,9 +1,10 @@
-##Six Seas Of Seperation
-#Ludum Dare 30 Entry by Neal Harltey & Myles Glass
+#Six Seas Of Seperation
+##Ludum Dare 30 Entry by Neal Harltey & Myles Glass
+##Made using LIBGDX
 
 This is our joint Ludum Dare game jam entry, based on the theme 'Connected Worlds'.
 
-#Ludum Dare page link(http://www.ludumdare.com/compo/ludum-dare-30/?action=preview&uid=34442)
+###Ludum Dare page link(http://www.ludumdare.com/compo/ludum-dare-30/?action=preview&uid=34442)
 
 First time entering Ludum Dare, or making a full game. May have underestimated the amount of time needed to complete, but we made it! 
 
